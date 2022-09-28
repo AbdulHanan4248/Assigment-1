@@ -133,3 +133,30 @@ switch (str=='a'|| str=='i'|| str=='o' || str=='u'
     default:
         break;
 }*/
+var z = prompt("Enter a month number please");
+var x = '';
+switch (z) {
+    case A:
+        x = "January";
+        break;
+    case B:
+        x = "January";
+        break;
+    case C:
+        x = "January";
+        break;
+    case D:
+        x = "January";
+        break;
+    case 5:
+        x = "January";
+        break;
+    case 6:
+        x = "January";
+        break;
+    case 7:
+        x = "January";
+        break;
+    default:
+        break;
+}
